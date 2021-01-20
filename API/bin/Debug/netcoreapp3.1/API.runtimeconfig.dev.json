@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\senae\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\senae\\.nuget\\packages"
+    ]
+  }
+}
